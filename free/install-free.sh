@@ -6,7 +6,7 @@ set -e
 ### =========
 INSTALL_DIR="/opt/n8n"
 COMPOSE_FILE="compose.yml"
-SERVER_IP=$(curl -fsSL https://ifconfig.me)
+SERVER_IP=$(curl -4 -fsSL https://ifconfig.me)
 
 ### =========
 ### HELPERS
