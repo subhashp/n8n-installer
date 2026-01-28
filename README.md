@@ -8,7 +8,7 @@ Production-ready deployment scripts for n8n workflow automation on Ubuntu.
 
 ## 🚀 Two Versions Available
 
-### Free Version - Perfect for Testing
+### Free Version - Perfect for Beginners and Testing
 
 Quick HTTP-only setup for development and testing.
 
