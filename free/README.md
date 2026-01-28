@@ -300,7 +300,7 @@ The PRO version includes:
 - ❌ No upgrade scripts
 - ❌ Basic docs
 
-**PRO Version ($29-39):**
+**PRO Version ($39):**
 - ✅ **Automatic HTTPS** with Let's Encrypt
 - ✅ **Custom domain** support (n8n.yourdomain.com)
 - ✅ **Automated backups** (one command)
