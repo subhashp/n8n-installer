@@ -8,8 +8,8 @@ Simple HTTP-only n8n installation for testing and development.
 ssh root@YOUR_SERVER_IP
 
 # 2. Download scripts
-wget https://github.com/yourname/n8n-installer/raw/main/free/install-free.sh
-wget https://github.com/yourname/n8n-installer/raw/main/free/uninstall-free.sh
+wget https://github.com/subhashp/n8n-installer/raw/main/free/install-free.sh
+wget https://github.com/subhashp/n8n-installer/raw/main/free/uninstall-free.sh
 
 # 3. Make executable
 chmod +x install-free.sh uninstall-free.sh
