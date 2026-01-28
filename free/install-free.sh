@@ -207,7 +207,7 @@ echo "   • Safe upgrade scripts"
 echo "   • Traefik reverse proxy"
 echo
 echo "   👉 Upgrade to n8n PRO Installer"
-echo "   Visit: https://gumroad.com/your-product"
+echo "   Visit: [your-gumroad-link]"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
 info "Quick commands:"
