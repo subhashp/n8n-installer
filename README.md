@@ -43,7 +43,7 @@ Complete solution with HTTPS, backups, and professional features.
 - ✅ **Community Discord** - Get help from peers and creator
 - ✅ **Staging Mode** - Test unlimited times without rate limits
 
-**[🛒 Get PRO Version ($29-39)](https://gumroad.com/your-product)**
+**[🛒 Get PRO Version ($39)](https://gumroad.com/your-product)**
 
 ---
 
@@ -88,7 +88,7 @@ Complete solution with HTTPS, backups, and professional features.
 | Private Discord | ❌ | ✅ |
 | Email support | ❌ | ✅ (Premium) |
 | **Pricing** |
-| Cost | Free | $29-39 |
+| Cost | Free | $39 |
 | Updates | - | 1 year free |
 | Commercial use | ✅ | ✅ |
 | Client deployments | ✅ | ✅ |
