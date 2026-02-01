@@ -43,7 +43,7 @@ Complete solution with HTTPS, backups, and professional features.
 - ✅ **Community Discord** - Get help from peers and creator
 - ✅ **Staging Mode** - Test unlimited times without rate limits
 
-**[🛒 Get PRO Version ($39)](https://gumroad.com/your-product)**
+**[🛒 Get PRO Version ($39)](https://gumroad.com/l/n8n-pro-installer)**
 
 ---
 
