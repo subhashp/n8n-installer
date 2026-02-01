@@ -319,7 +319,7 @@ The PRO version includes:
 - 📈 Growing businesses
 - 🚀 Professional workflows
 
-**[Get n8n PRO Installer →](https://gumroad.com/your-product)**
+**[Get n8n PRO Installer →](https://gumroad.com/l/n8n-pro-installer)**
 
 *One-time purchase. Deploy unlimited servers. Commercial use allowed.*
 
