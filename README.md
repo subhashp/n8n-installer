@@ -82,7 +82,7 @@ Complete solution with HTTPS, backups, and professional features.
 | Basic README | ✅ | ✅ |
 | Quick start guide | Basic | Comprehensive |
 | Troubleshooting | Basic | Extensive |
-| Video tutorial | ❌ | ✅ |
+| Video tutorial | ✅ | ✅ |
 | **Support** |
 | Community forum | ✅ | ✅ |
 | Private Discord | ❌ | ✅ |
