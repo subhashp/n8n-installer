@@ -17,7 +17,10 @@ chmod +x install-free.sh uninstall-free.sh
 # 4. Install
 ./install-free.sh
 
-# 5. Access n8n
+# 5. Check status
+docker ps | grep n8n
+
+# 6. Access n8n
 # Visit: http://YOUR_SERVER_IP:5678
 ```
 
