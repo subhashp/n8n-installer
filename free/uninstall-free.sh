@@ -75,7 +75,7 @@ if [ "$REMAINING_CONTAINERS" -eq 0 ] && [ "$REMAINING_VOLUMES" -eq 0 ] && [ ! -d
   echo
   echo "🚀 Need Production n8n with HTTPS?"
   echo "   Check out n8n PRO Installer"
-  echo "   Visit: [your-gumroad-link]"
+  echo "   Visit: gumroad.com/l/n8n-pro-installer"
   echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 else
   echo
