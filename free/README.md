@@ -1,6 +1,6 @@
 # n8n Free Installer
 
-Simple HTTP-only n8n installation for testing and development.
+Simple n8n installation for beginners, testing and development (HTTP-only).
 
 ## Quick Start
 ```bash
